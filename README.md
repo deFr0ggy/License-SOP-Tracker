@@ -1,5 +1,5 @@
 # License-SOP-Tracker
-A simple Python3 - Tkinter implementation to track SOPs and License Expiry rather tahn using excel sheets along with giving you reminders.
+A simple Python3 - Tkinter implementation to track SOPs and License Expiry rather than using excel sheets along with giving you reminders.
 
 ![](./snaps/Main.png)
 
@@ -46,7 +46,7 @@ pip3 or python3 -m pip install pyinstaller
 Once installed, run the following command to make final executable. 
 
 ```
-pyinstaller --onefile --windowed ./License & SOP Tracker.py
+pyinstaller --onefile --windowed 'License & SOP Tracker.py'
 ```
 
 This will generate an `exe` file. 
